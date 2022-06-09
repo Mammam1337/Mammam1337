@@ -5,7 +5,7 @@ $("#clickme").click(function () {
   document.getElementById("clickme").classList.toggle("hide");
 });
 $("#dc-name").click(function () {
-  navigator.clipboard.writeText("! Majek_PL#1337");
+  navigator.clipboard.writeText("Mammam_#7297");
   document.getElementById("copied").classList.toggle("hide");
   setTimeout(function () {
     document.getElementById("copied").classList.add("hide");
